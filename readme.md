@@ -26,3 +26,7 @@ Once the database is setup and migrations are complete, run
 
 and visit [http://localhost:8000/](http://localhost:8000/) to see the application in action.
 
+## todo 
+   - Add latitude and longitude to tickets
+   - Reporting
+
